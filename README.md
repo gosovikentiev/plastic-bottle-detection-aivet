@@ -27,6 +27,8 @@ Run the detection script on the Raspberry Pi to start the system.
 
 ## Installation
 
+`sudo apt install -y python3-picamera2
+
 `git clone https://github.com/gosovikentiev/plastic-bottle-detection-aivet`
 
 `cd plastic-bottle-detection`
