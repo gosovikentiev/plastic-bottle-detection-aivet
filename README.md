@@ -31,6 +31,8 @@ Run the detection script on the Raspberry Pi to start the system.
 
 `cd plastic-bottle-detection`
 
-`python setup.py`
+`chmod +x setup.sh`
+
+`./setup.sh`
 
 `reboot`
